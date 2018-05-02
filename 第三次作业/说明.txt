@@ -1,3 +1,0 @@
-老师
-myeclipse怎么也连不上SQLite。。。
-只能先用Mysql写了
