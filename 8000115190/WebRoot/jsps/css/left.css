@@ -1,0 +1,45 @@
+body{
+	margin:0px;
+	padding:0px;
+	border:0px;
+	bgcolor:#497940
+}
+a {
+	font-family: "Verdana", "Arial", "Helvetica", "sans-serif";
+}
+a:link {
+	TEXT-DECORATION: none
+}
+a:visited {
+	
+	TEXT-DECORATION: none
+}
+a:hover {
+	color:red;
+}
+a:active {
+	TEXT-DECORATION: none;/*underline*/
+}
+
+.menuItem {
+	height:30px;
+	background-color:#2E8B57;
+	cursor:pointer;
+	text-align:center;
+	border:0px;
+	padding:0px 0px 0px 0px;
+	border-width:0px;
+	font-size:20px;
+	 font-weight:bold;
+}
+.menuchild{
+	height:24px;
+	
+	background-color: #99CC99;
+	text-align:center;
+	border:0px;
+	cursor:pointer;
+	color:white;
+	font-size:17;
+	border:1px solid #9bdf70;
+}
